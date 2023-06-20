@@ -1,8 +1,8 @@
 ### YEOBLEE
 <p>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JongyeobLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/yeoblee-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="mailto:mauyeoblee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mauyeoblee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
