@@ -1,6 +1,6 @@
 ### YEOBLEE
 <p>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Linked
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="mailto:mauyeoblee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
